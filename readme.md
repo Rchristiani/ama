@@ -2,9 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I am Ryan Christiani, I'm a Lead Developer and Instructor from Toronto, Canada! I work at [HackerYou](http://hackeryou.com). I focus a lot of my time on JS and how to make it easier to learn for new students. You can find me at [ryanchristiani.com](http://ryanchristiani.com). On Twitter [@Rchristiani](https://twitter.com/RChristiani)!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Current interests: JS Frameworks( Backbone, Ember, Angular, React), ES2015, MongoDB and Node/Express.
 
 -
 
